@@ -8,5 +8,9 @@
 </head>
 <body>
     <h1>site wpet obg</h1>
+<ul>
+<li> escola </li> 
+    <li> estudante</li>
+</ul>
 </body>
 </html>
