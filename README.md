@@ -7,10 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>site wpet obg</h1>
-<ul>
-<li> escola </li> 
-    <li> estudante</li>
-</ul>
+       <header>
+        <img src="pet shop e veterinária.png" alt="logo petshop">
+    </header>
 </body>
 </html>
